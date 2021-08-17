@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "managed",
+      "name": "dummy.vcxproj",
+      "project": "dummy\\dummy.vcxproj",
+      "projectTarget": ""
+    }
+  ]
+}
